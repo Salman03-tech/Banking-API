@@ -92,5 +92,4 @@ public class AccountServiceImpl implements AccountService {
             throw new RuntimeException("Account doesn't exist");
         }
     }
-
 }

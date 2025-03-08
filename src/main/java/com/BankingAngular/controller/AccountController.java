@@ -67,4 +67,5 @@ public class AccountController {
         accountService.deleteAccount(id);
         return new ResponseEntity<>("Deleted Successfully", HttpStatus.ACCEPTED);
     }
+
 }

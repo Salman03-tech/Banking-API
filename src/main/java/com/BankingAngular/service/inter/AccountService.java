@@ -19,4 +19,5 @@ public interface AccountService {
     List<AccountDto> getAllAccount();
 
     void deleteAccount(Long id);
+
 }
