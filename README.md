@@ -6,6 +6,7 @@ This RESTful API provides functionalities for managing users in a banking system
 Technologies Used
 
     Java
+    Java 8
     Spring Boot
     Spring Data JPA
     Hibernate
